@@ -3,7 +3,6 @@
 [![ICP](https://img.shields.io/badge/Internet_Computer-Protocol-29ABE2?style=for-the-badge&logo=internetcomputer&logoColor=white)](https://internetcomputer.org)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Motoko](https://img.shields.io/badge/Motoko-Blue?style=for-the-badge)](https://motoko.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 > **Decentralized, HIPAA-compliant autonomous enforcement of patient advance directives using Internet Computer Protocol**
 
@@ -73,19 +72,10 @@ EchoLedger/
    ```bash
    cd frontend
    yarn start
-   ```
-
-## 📚 Documentation
-
-For detailed documentation, please see the [docs](./docs) directory.
-
+   `
 ## 🤝 Contributing
 
 Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -181,11 +171,6 @@ dfx deploy --network ic
 
 ---
 
-## 🧪 Demo & Testing
-
-### **📺 Demo Video**
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-*Click to watch: Live demo showing emergency DNR verification, AI directive processing, and organ coordination*
 
 ### **🔬 Test Emergency Scenarios**
 
@@ -296,9 +281,7 @@ public func gdpr_check(patient_nationality: Text): async Bool {
 
 ---
 
-## 🏆 Competition Features
-
-### **✅ WCHL 2025 Requirements Met:**
+##  Features Met:**
 - [x] **Live dApp on ICP Mainnet** ✅
 - [x] **Actual ICP Canisters** (Rust + Motoko) ✅
 - [x] **Chain Fusion** integration ✅
@@ -367,9 +350,9 @@ npm run compliance-check
 **Built for WCHL 2025 by:**
 - **Rayhan Hameed** - Team Lead
 - **Yuvan Shankar** - Core Developer
-- **Rohith K J** - AI/ML Specialist
-- **Mohamed Aaftaab M R** - Frontend Developer
-- **Monish S** - Backend Developer
+- **Rohith K J** 
+- **Mohamed Aaftaab M R** - 
+- **Monish S** 
 
 ---
 
@@ -381,35 +364,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🆘 Support & Contact
 
-- **📧 Email:** echoledger@example.com
-- **💬 Discord:** Join [WCHL 2025 Discord](https://discord.gg/wchl2025)
-- **🐦 Twitter:** [@EchoLedgerAI](https://twitter.com/echoledgerai)
-- **📋 Issues:** [GitHub Issues](https://github.com/your-username/echoledger-icp/issues)
-
----
-
-## 🏆 Why We Should Win
-
-1. **Solves Real Healthcare Crisis** - 28K organs wasted + directive non-compliance
-2. **Full ICP Implementation** - Not just a demo, but production-ready canisters
-3. **Autonomous AI Operation** - First truly autonomous healthcare system
-4. **Technical Innovation** - Advanced multi-canister architecture
-5. **Immediate Impact** - Can be deployed in hospitals tomorrow
-6. **Perfect Competition Fit** - AI track, real-world impact, ICP native
-
----
 
 ## 📞 Contact & Links
-
-**Demo URL:** https://8590a005-caf1-43bf-8e86-33eb0f9ba214.preview.emergentagent.com  
-**GitHub:** Will be provided upon submission  
-**Email:** Available upon request  
-**Competition Track:** AI - Decentralized Intelligence  
+  
+**Email:** rayhanhameed5@gmail.com
+  
 
 ---
 
-**🎉 Thank you WCHL 2025 judges for considering EchoLedger!**
+**🎉 Thank you **
+
 
 *Built with 💜 on the Internet Computer - Where every canister can save a life*
