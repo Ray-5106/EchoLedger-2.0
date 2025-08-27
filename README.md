@@ -10,6 +10,9 @@
 
 EchoLedger is a decentralized application that ensures patient end-of-life wishes are respected and automatically enforced through blockchain technology. It provides a secure, immutable, and transparent way to manage and execute healthcare directives.
 
+## NOTE:-
+If you want to access a trail run of this project, kindly download the standalone html version and run, to see the demo.
+
 ## 🚀 Features
 
 - **🔐 Secure Storage**: Patient directives stored on the Internet Computer blockchain
@@ -377,3 +380,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 *Built with 💜 on the Internet Computer - Where every canister can save a life*
+
